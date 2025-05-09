@@ -33,10 +33,5 @@ Taxi-Demand-Forecasting/
 
 ---
 
-## 🚀 **Usage:**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/DarkVeles/Taxi-Demand-Forecasting.git
-   cd Taxi-Demand-Forecasting
-pip install -r requirements.txt
+
 jupyter notebook Taxi-Demand-Forecasting.ipynb
