@@ -34,4 +34,12 @@ Taxi-Demand-Forecasting/
 ---
 
 
+## 🚀 **Usage:**  
+To run this project locally, follow these steps:  
+
+1️⃣ **Clone the repository:**  
+```bash
+git clone https://github.com/DarkVeles/Taxi-Demand-Forecasting.git
+cd Taxi-Demand-Forecasting
+pip install -r requirements.txt
 jupyter notebook Taxi-Demand-Forecasting.ipynb
